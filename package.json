@@ -1,0 +1,24 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "This project is a ToDo List web application that I am building to practice my web development skills, particularly my abilities in HTML, CSS, and JavaScript. By building this project, I aim to improve my understanding of web development fundamentals, such as DOM manipulation, event handling, and local storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armin-164/todo-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armin-164/todo-list/issues"
+  },
+  "homepage": "https://github.com/armin-164/todo-list#readme",
+  "dependencies": {
+    "webpack": "^5.82.0",
+    "webpack-cli": "^5.1.0"
+  }
+}
